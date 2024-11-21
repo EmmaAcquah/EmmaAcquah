@@ -11,7 +11,7 @@
 💪🏾 Completed Makers Academy Software Engineering & DevOps bootcamp.<br>
 📊 Previous experience in Finance & Accounting within the Education sector.<br>
 📚 I'm currently learning about microservices and event-driven architecture.<br>
-📖 Currently reading: <a href="https://www.oreilly.com/library/view/head-first-design/9781492077992/">Head First Design Patterns</a> & <a href="https://learning.oreilly.com/live-events/algorithms-for-everyone/0642572003993/">Algorithms for Everyone</a>
+📖 Currently reading: <a href="https://www.oreilly.com/library/view/head-first-design/9781492077992/">Head First Design Patterns</a> & <a href="https://www.oreilly.com/library/view/grokking-algorithms-second/9781633438538/">Grokking Algorithms</a>
 </p>
 
 ###
